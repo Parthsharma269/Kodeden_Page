@@ -485,6 +485,27 @@ nav {
     .w-95 {
         width: 46%;
     }
+
+    .Ellipse-header-img {
+        left: 76%;
+    }
+
+    .Ellipse-S-2-img {
+        top: 140%;
+        left: 10%;
+    }
+
+    .Ellipse-S-3-img {
+        left: 78%;
+    }
+
+    .Ellipse-S-4-img {
+        left: 13%;
+    }
+
+    .Ellipse-S-5-img {
+        left: 73%;
+    }
 }
 
 @media (max-width:1440px) {
@@ -553,6 +574,31 @@ nav {
     .Phone-icon-3 {
         left: 40%;
     }
+
+    .Ellipse-header-img {
+        top: 24%;
+        left: 89%;
+    }
+
+    .Ellipse-S-2-img {
+        top: 295%;
+        left: 1%;
+    }
+
+    .Ellipse-S-3-img {
+        left: 89%;
+        top: 399%;
+    }
+
+    .Ellipse-S-4-img {
+        left: 1%;
+        top: 619%;
+    }
+
+    .Ellipse-S-5-img {
+        left: 89%;
+        top: 813%;
+    }
 }
 
 @media (max-width:1024px) {
@@ -570,6 +616,31 @@ nav {
 
     .Phone-icon-3 {
         left: 38%;
+    }
+
+    .Ellipse-header-img {
+        top: 24%;
+        left: 89%;
+    }
+
+    .Ellipse-S-2-img {
+        left: 2%;
+        top: 155%;
+    }
+
+    .Ellipse-S-3-img {
+        left: 86%;
+        top: 214%;
+    }
+
+    .Ellipse-S-4-img {
+        left: 2%;
+        top: 336%;
+    }
+
+    .Ellipse-S-5-img {
+        left: 83%;
+        top: 443%;
     }
 }
 
