@@ -353,6 +353,10 @@ nav {
     max-width: 507px !important;
 }
 
+.S-5-img {
+    max-width: 386px !important;
+}
+
 .slider-box {
     padding: 12px;
     margin-left: 13%;
@@ -487,24 +491,26 @@ nav {
     }
 
     .Ellipse-header-img {
-        left: 76%;
+        top: 28%;
+        left: 85%;
     }
 
     .Ellipse-S-2-img {
-        top: 140%;
-        left: 10%;
+        top: 141%;
+        left: 0%;
     }
 
     .Ellipse-S-3-img {
-        left: 78%;
+        left: 86%;
     }
 
     .Ellipse-S-4-img {
-        left: 13%;
+        left: 2%;
     }
 
     .Ellipse-S-5-img {
-        left: 73%;
+        left: 87%;
+        top: 439%;
     }
 }
 
