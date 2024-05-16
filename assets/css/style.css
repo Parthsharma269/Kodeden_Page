@@ -395,6 +395,10 @@ nav {
     line-height: 25.68px !important;
 }
 
+.timeline {
+    transform: translate(10px, 10px);
+}
+
 .border-top {
     border-top: 1px solid #535050 !important;
 }
@@ -470,11 +474,13 @@ nav {
     .Vadio-icon-right {
         position: absolute;
         left: 65%;
+        bottom: 23%;
     }
 
     .Vadio-icon-left {
         position: absolute;
         left: 24%;
+        bottom: 23%;
     }
 
     .w-95 {
@@ -512,10 +518,12 @@ nav {
 
     .Vadio-icon-left {
         left: 15%;
+        bottom: 23%;
     }
 
     .Vadio-icon-right {
         left: 71%;
+        bottom: 23%;
     }
 
     .prev {
