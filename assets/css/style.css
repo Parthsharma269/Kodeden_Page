@@ -522,7 +522,7 @@ nav {
     }
 
     .prev {
-        left: 4%;
+        left: 2%;
     }
 
     .next {
@@ -532,6 +532,7 @@ nav {
 
 @media (max-width:1029.33px) {
     :root {
+        --fs-24: 20px;
         --fs-50: 41px;
     }
 
@@ -568,7 +569,7 @@ nav {
 
 @media (max-width:1220px) {
     .slider-box {
-        margin-left: 17%;
+        margin-left: 15%;
     }
 
     .Phone-icon-3 {
@@ -581,7 +582,7 @@ nav {
     }
 
     .Ellipse-S-2-img {
-        top: 295%;
+        top: 287%;
         left: 1%;
     }
 
@@ -592,7 +593,7 @@ nav {
 
     .Ellipse-S-4-img {
         left: 1%;
-        top: 619%;
+        top: 610%;
     }
 
     .Ellipse-S-5-img {
