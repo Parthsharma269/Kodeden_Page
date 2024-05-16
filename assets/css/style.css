@@ -112,15 +112,6 @@
     font-weight: 900;
 }
 
-.container_1 {
-    max-width: 1320px !important;
-    max-height: 5796px !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    padding-left: 12px !important;
-    padding-right: 12px !important;
-}
-
 .row_1 {
     display: flex !important;
     flex-wrap: wrap !important;
@@ -405,7 +396,7 @@ nav {
 }
 
 .border-top {
-    border-top: 1px solid #535050;
+    border-top: 1px solid #535050 !important;
 }
 
 .Linear-geadient {
@@ -542,6 +533,14 @@ nav {
         --fs-50: 41px;
     }
 
+    .h-s-1-para-m-w {
+        max-width: 446px !important;
+    }
+
+    .s-3-para-m-w {
+        max-width: 865px !important;
+    }
+
     .w-95 {
         width: 88%;
     }
@@ -594,7 +593,7 @@ nav {
 
     .Ellipse-S-3-img {
         left: 89%;
-        top: 399%;
+        top: 405%;
     }
 
     .Ellipse-S-4-img {
