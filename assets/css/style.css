@@ -553,6 +553,10 @@ nav {
         width: 88%;
     }
 
+    .slider-box {
+        margin-left: 12%;
+    }
+
     .Vadio-icon-right {
         position: absolute;
         left: 82%;
@@ -563,8 +567,12 @@ nav {
         left: 1%;
     }
 
+    .Phone-icon-3 {
+        left: 37%;
+    }
+
     .Ellipse-S-2-img {
-        top: 262%;
+        top: 257%;
     }
 
     .Ellipse-S-3-img {
@@ -576,42 +584,8 @@ nav {
     }
 
     .Ellipse-S-5-img {
-        top: 813%;
-    }
-}
-
-@media (max-width:1220px) {
-    .slider-box {
-        margin-left: 15%;
-    }
-
-    .Phone-icon-3 {
-        left: 40%;
-    }
-
-    .Ellipse-header-img {
-        top: 24%;
         left: 89%;
-    }
-
-    .Ellipse-S-2-img {
-        top: 295%;
-        left: 1%;
-    }
-
-    .Ellipse-S-3-img {
-        left: 89%;
-        top: 405%;
-    }
-
-    .Ellipse-S-4-img {
-        left: 1%;
-        top: 620%;
-    }
-
-    .Ellipse-S-5-img {
-        left: 89%;
-        top: 813%;
+        top: 795%;
     }
 }
 
