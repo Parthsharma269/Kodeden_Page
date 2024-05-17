@@ -132,7 +132,7 @@ nav {
     top: 0;
     z-index: 23;
     position: sticky;
-    background-color: #000000;
+    background-color: #0E0E0F;
 }
 
 .nav:hover {
@@ -358,7 +358,7 @@ nav {
 }
 
 .slider-pare-m-w {
-    max-width: 348px;
+    width: 348px;
 }
 
 .slider-pare-2-m-w {
@@ -403,6 +403,13 @@ nav {
     border-top: 1px solid #535050 !important;
 }
 
+.Header-bg-img {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("../images/Header-bg-img.png");
+}
+
 .Linear-geadient {
     height: 64px;
     background-size: cover;
@@ -438,8 +445,8 @@ nav {
 
 .Ellipse-header-img {
     position: absolute;
-    top: 26%;
-    left: 76%;
+    top: 30%;
+    left: 90%;
 }
 
 .Ellipse-S-2-img {
@@ -464,6 +471,23 @@ nav {
     position: absolute;
     left: 80%;
     top: 435%;
+}
+
+.My_vadio {
+    width: 100%;
+    height: 100%;
+    max-width: 996px;
+    min-height: 476px;
+    max-height: 476px;
+    border-radius: 24px;
+}
+
+.hover_effect {
+    left: -100px;
+}
+
+.effect_hover:hover .hover_effect {
+    left: 0;
 }
 
 @media (max-width:1920px) {
@@ -512,24 +536,28 @@ nav {
     }
 
     .Ellipse-header-img {
-        top: 21%;
-        left: 86%;
+        top: 25%;
+        left: 89%;
     }
 
     .Ellipse-S-2-img {
+        top: 73%;
         left: 0%;
     }
 
     .Ellipse-S-3-img {
+        top: 79%;
         left: 86%;
     }
 
     .Ellipse-S-4-img {
         left: 2%;
+        top: -30%;
     }
 
     .Ellipse-S-5-img {
         left: 88%;
+        top: 79%;
     }
 }
 
@@ -540,11 +568,21 @@ nav {
     }
 
     .h-s-1-para-m-w {
-        max-width: 446px !important;
+        max-width: 578px !important;
     }
 
     .s-3-para-m-w {
         max-width: 865px !important;
+    }
+
+    .prev {
+        left: 2%;
+        bottom: 50%;
+    }
+
+    .next {
+        left: 94%;
+        bottom: 50%;
     }
 
     .w-95 {
@@ -570,20 +608,20 @@ nav {
     }
 
     .Ellipse-S-2-img {
-        top: 257%;
+        top: 74%;
     }
 
     .Ellipse-S-3-img {
-        top: 393%;
+        top: 100%;
     }
 
     .Ellipse-S-4-img {
-        top: 613%;
+        top: -31%;
     }
 
     .Ellipse-S-5-img {
         left: 89%;
-        top: 795%;
+        top: 83%;
     }
 }
 
@@ -788,6 +826,10 @@ nav {
     .icon-box {
         width: 40px;
         height: 199px;
+    }
+
+    .slider-pare-m-w {
+        width: 322px;
     }
 }
 
