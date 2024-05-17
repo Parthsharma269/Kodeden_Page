@@ -350,7 +350,7 @@ nav {
 
 .slider-box {
     padding: 12px;
-    margin-left: 9%;
+    margin-left: 8%;
     border-radius: 2px;
     height: 389px !important;
     max-width: 364px !important;
@@ -439,31 +439,31 @@ nav {
 .Ellipse-header-img {
     position: absolute;
     top: 26%;
-    left: 85%;
+    left: 76%;
 }
 
 .Ellipse-S-2-img {
     position: absolute;
     top: 141%;
-    left: 0%;
+    left: 10%;
 }
 
 .Ellipse-S-3-img {
     position: absolute;
-    top: 207%;
-    left: 87%;
+    top: 208%;
+    left: 76%;
 }
 
 .Ellipse-S-4-img {
     position: absolute;
-    top: 343%;
-    left: 2%;
+    top: 335%;
+    left: 14%;
 }
 
 .Ellipse-S-5-img {
     position: absolute;
     left: 80%;
-    top: 460%;
+    top: 435%;
 }
 
 @media (max-width:1920px) {
@@ -485,29 +485,6 @@ nav {
 
     .w-95 {
         width: 46%;
-    }
-
-    .Ellipse-header-img {
-        top: 28%;
-        left: 85%;
-    }
-
-    .Ellipse-S-2-img {
-        top: 141%;
-        left: 0%;
-    }
-
-    .Ellipse-S-3-img {
-        left: 86%;
-    }
-
-    .Ellipse-S-4-img {
-        left: 2%;
-    }
-
-    .Ellipse-S-5-img {
-        left: 87%;
-        top: 439%;
     }
 }
 
@@ -532,6 +509,27 @@ nav {
 
     .next {
         left: 95%;
+    }
+
+    .Ellipse-header-img {
+        top: 21%;
+        left: 86%;
+    }
+
+    .Ellipse-S-2-img {
+        left: 0%;
+    }
+
+    .Ellipse-S-3-img {
+        left: 86%;
+    }
+
+    .Ellipse-S-4-img {
+        left: 2%;
+    }
+
+    .Ellipse-S-5-img {
+        left: 88%;
     }
 }
 
@@ -607,8 +605,8 @@ nav {
     }
 
     .Ellipse-header-img {
-        top: 24%;
-        left: 89%;
+        top: 21%;
+        left: 88%;
     }
 
     .Ellipse-S-2-img {
@@ -623,12 +621,12 @@ nav {
 
     .Ellipse-S-4-img {
         left: 2%;
-        top: 336%;
+        top: 330%;
     }
 
     .Ellipse-S-5-img {
-        left: 83%;
-        top: 443%;
+        left: 88%;
+        top: 433%;
     }
 }
 
