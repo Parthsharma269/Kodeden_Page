@@ -350,15 +350,15 @@ nav {
 
 .slider-box {
     padding: 12px;
-    margin-left: 13%;
+    margin-left: 9%;
     border-radius: 2px;
+    height: 389px !important;
     max-width: 364px !important;
-    max-height: 389px !important;
     border: 0.75px solid #E4E4E4;
 }
 
 .slider-pare-m-w {
-    width: 348px !important;
+    max-width: 348px;
 }
 
 .slider-pare-2-m-w {
@@ -456,7 +456,7 @@ nav {
 
 .Ellipse-S-4-img {
     position: absolute;
-    top: 335%;
+    top: 343%;
     left: 2%;
 }
 
@@ -660,7 +660,7 @@ nav {
 
 @media (max-width: 992px) {
     .menuIcon {
-        left: 88%;
+        left: 85%;
         z-index: 1;
         width: 35px;
         height: 35px;
@@ -696,7 +696,7 @@ nav {
     }
 
     .mt-9 {
-        margin-top: 9%;
+        margin-top: 9% !important;
     }
 
     .Ellipse-d-n {
@@ -759,13 +759,17 @@ nav {
     }
 
     .icon-box {
-        top: 79%;
+        top: 33%;
     }
 }
 
 @media (max-width:560px) {
     .Vadio-icon-right {
         left: 70%;
+    }
+
+    .flex-direction-sm-reverse {
+        flex-direction: column-reverse !important;
     }
 }
 
@@ -776,15 +780,17 @@ nav {
     }
 
     .slider-box {
-        margin-left: 14%;
+        margin-left: 0%;
     }
 
     .prev {
         left: 3%;
+        bottom: -9%;
     }
 
     .next {
         left: 85%;
+        bottom: -9%;
     }
 
     .Phone-icon-3 {
@@ -796,11 +802,20 @@ nav {
     }
 
     .slider-box {
-        max-width: 278px !important;
+        max-width: 100% !important;
     }
 
-    .slider-pare-m-w {
-        width: 270px !important;
+    .pt-sm-45 {
+        padding-top: 45%;
+    }
+
+    .Linear-geadient {
+        height: 28px;
+    }
+
+    .icon-box {
+        width: 40px;
+        height: 199px;
     }
 }
 
@@ -829,7 +844,7 @@ nav {
 @media (max-width:473px) {
     .linear-geadient {
         left: 3%;
-        top: 64%;
+        top: 60%;
     }
 
     .Vadio-icon-right {
