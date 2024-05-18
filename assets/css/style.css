@@ -112,6 +112,10 @@
     font-weight: 900;
 }
 
+.max-w-1140 {
+    max-width: 1140px !important;
+}
+
 .row_1 {
     display: flex !important;
     flex-wrap: wrap !important;
@@ -445,8 +449,8 @@ nav {
 
 .Ellipse-header-img {
     position: absolute;
-    top: 30%;
-    left: 90%;
+    top: 23%;
+    left: 88%;
 }
 
 .Ellipse-S-2-img {
@@ -510,6 +514,30 @@ nav {
     .w-95 {
         width: 46%;
     }
+
+    .Ellipse-header-img {
+        top: 27%;
+        left: 89%;
+    }
+
+    .Ellipse-S-2-img {
+        top: 73%;
+        left: 15%;
+    }
+
+    .Ellipse-S-3-img {
+        top: 79%;
+        left: 79%;
+    }
+
+    .Ellipse-S-4-img {
+        top: -27%;
+        left: 18%;
+    }
+
+    .Ellipse-S-5-img {
+        top: 80%;
+    }
 }
 
 @media (max-width:1440px) {
@@ -535,14 +563,9 @@ nav {
         left: 95%;
     }
 
-    .Ellipse-header-img {
-        top: 25%;
-        left: 89%;
-    }
-
     .Ellipse-S-2-img {
-        top: 73%;
-        left: 0%;
+        top: 72%;
+        left: 3%;
     }
 
     .Ellipse-S-3-img {
@@ -551,7 +574,7 @@ nav {
     }
 
     .Ellipse-S-4-img {
-        left: 2%;
+        left: 8%;
         top: -30%;
     }
 
@@ -608,7 +631,7 @@ nav {
     }
 
     .Ellipse-S-2-img {
-        top: 74%;
+        top: 96%;
     }
 
     .Ellipse-S-3-img {
